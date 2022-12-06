@@ -55,5 +55,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
 </div>
 
+<!-- Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=SushanGhimire)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SushanGhimire&theme=dark)](https://git.io/streak-stats)
