@@ -16,10 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-SushanGhimire&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1 align="center">Hi 👋, My Name is Susan Ghimire</h1>
+<h3 align="center">A passionate Frontend Developer mainly (React & Next)from Nepal</h3>
+<p align="left"> <a href="https://twitter.com/sushangmi55" target="blank"><img src="https://img.shields.io/twitter/follow/sushangmi55?logo=twitter&style=for-the-badge" alt="sushangmi55" /></a> </p>
 
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -69,3 +68,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <p align="">
     <img alt="Sushan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushanGhimire&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=368f8b&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 </p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sushangmi55"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sushangmi55" /></a></p><br><br>
