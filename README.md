@@ -17,7 +17,7 @@
 </div>
 
 <h1 align="center">Hi 👋, My Name is Susan Ghimire</h1>
-<h3 align="center">A passionate Frontend Developer mainly (React & Next)from Nepal</h3>
+<h3 align="center">A passionate Frontend Developer mainly (React & Next) from Nepal</h3>
 <p align="left"> <a href="https://twitter.com/sushangmi55" target="blank"><img src="https://img.shields.io/twitter/follow/sushangmi55?logo=twitter&style=for-the-badge" alt="sushangmi55" /></a> </p>
 
 <!-- <div align="center">
