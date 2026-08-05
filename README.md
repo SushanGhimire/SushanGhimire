@@ -33,7 +33,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I watch tech tutorial on youtube, read tech articles, play supercell games and so on.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sushan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sushan-ghimire-92602917a/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sushan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/susan-ghimire-92602917a/)
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
